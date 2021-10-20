@@ -6,15 +6,6 @@
         review="review.gerrithub.io"/>
     <default revision="master" remote="origin"/>
 
-    <project
-        path="bash"
-        name="twityhwan/bash"/>
-    <project
-        path="c"
-        name="twityhwan/C_Practice"/>
-    <project
-        path="html5"
-        name="twityhwan/html5"/>
     <project                                                                     
         path="testRepo"                                                              
         name="JHanW/testRepo"/>    

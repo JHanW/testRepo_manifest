@@ -2,12 +2,12 @@
 <manifest>                                                                       
     <remote                                                                      
         name="origin"                                                            
-        fetch="ssh://git@github.com/JHanW/>                                         
+        fetch="ssh://git@github.com/>                                         
 
     <default revision="master" remote="origin"/>                                 
                                                                                  
     <project                                                                     
         path="testRepo"                                                              
-        name="testRepo.git"/>                                                  
+        name="JHanW/testRepo"/>                                                  
                                                 
 </manifest> 

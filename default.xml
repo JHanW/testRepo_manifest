@@ -6,7 +6,7 @@
     <default revision="develop" remote="bitbucket"/>
 
     <project                                                                     
-        path="aap"                                                              
+        path="aap2"                                                              
         name="scm/apr/aap2"/>    
 </manifest>
 

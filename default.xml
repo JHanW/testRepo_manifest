@@ -4,7 +4,7 @@
         name="origin"
         fetch="ssh://git@github.com/"
         review="review.gerrithub.io"/>
-    <default revision="master" remote="origin"/>
+    <default revision="main" remote="origin"/>
 
     <project                                                                     
         path="testRepo"                                                              
